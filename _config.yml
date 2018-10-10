@@ -79,4 +79,4 @@ sass:
 collections:
   faqs:
     output: false
-theme: cayman
+theme: jekyll-theme-cayman
