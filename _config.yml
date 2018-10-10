@@ -24,24 +24,24 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
-    email:
+    name:           Tim de Wilde
+    email:          tim@eventinsight.io
     website:
-    facebook:       https://www.facebook.com/
+    facebook:      
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:     
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:      
+    vimeo:        
     youtube:
 
 # Social share buttons
-twitter_username:   ivanchromjak
-github_username:    ivanchromjak
+twitter_username:   
+github_username:    tim-de-wilde
 
 # Default footer image settings
 footer:
