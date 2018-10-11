@@ -22,3 +22,10 @@ $global-primary-background: #006aa7;
 
 // 5. Other vendor styles
 @import "syntax-highlighting/github";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+ font-family: 'Montserrat', sans-serif;
+}
+
