@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Desk
-description:        Knowledge base Jekyll theme.
+title:              Support
+description:        De support pagina van EventInsight.
 
 # Site subpath, e.g. /blog
 baseurl:            ""
