@@ -45,8 +45,7 @@ github_username:    tim-de-wilde
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
-
+    copyright:      <a href="https://www.eventinsight.io/">EventInsight.io</a> | 2017-2018
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
     shortname:      # 7865
@@ -79,5 +78,3 @@ sass:
 collections:
   faqs:
     output: false
-theme: jekyll-theme-cayman
-header-col: "#ffffff"

@@ -1,7 +1,7 @@
 ---
 layout: help
-title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+title: Hoe kunnen we je helpen?
+subtitle: Vind snel advies en antwoorden van ons supporteam of neem contact met ons op
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -12,11 +12,11 @@ hero:
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Uitgelichte artikelen
     tag: featured
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
+    title: Geen antwoord gevonden op je vragen?
+    subtitle: Neem contact met het ons op voor meer informatie
     button_text: Contact Us   
     button_url: /contact/      
 ---
