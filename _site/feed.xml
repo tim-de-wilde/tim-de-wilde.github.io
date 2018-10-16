@@ -1,4 +1,233 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-15T14:55:19+02:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Een programma item toevoegen</title><link href="http://localhost:4000/post101/" rel="alternate" type="text/html" title="Een programma item toevoegen" /><published>2018-10-15T00:00:00+02:00</published><updated>2018-10-15T00:00:00+02:00</updated><id>http://localhost:4000/post101</id><content type="html" xml:base="http://localhost:4000/post101/">&lt;h4 class=&quot;no_toc&quot; id=&quot;inhoud-van-dit-artikel&quot;&gt;Inhoud van dit artikel&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-16T10:50:42+02:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Een spreker toevoegen</title><link href="http://localhost:4000/post104/" rel="alternate" type="text/html" title="Een spreker toevoegen" /><published>2018-10-16T00:00:00+02:00</published><updated>2018-10-16T00:00:00+02:00</updated><id>http://localhost:4000/post104</id><content type="html" xml:base="http://localhost:4000/post104/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#benodigdheden&quot; id=&quot;markdown-toc-benodigdheden&quot;&gt;Benodigdheden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-spreker-toevoegen&quot; id=&quot;markdown-toc-een-spreker-toevoegen&quot;&gt;Een spreker toevoegen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In dit artikel leert u om een spreker toe te voegen aan een programma item. Uw deelnemers kunnen dan gelijk in het programma zien wie spreekt.&lt;/p&gt;
+
+&lt;h4 id=&quot;benodigdheden&quot;&gt;Benodigdheden&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Een user account voor de spreker (zie: &lt;a href=&quot;/post102/&quot;&gt;Een user toevoegen&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;Een programma-item om de spreker aan te linken (zie: &lt;a href=&quot;/post101/&quot;&gt;Een programma item toevoegen&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;een-spreker-toevoegen&quot;&gt;Een spreker toevoegen&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/spreker-toevoegen-post1.jpg&quot; caption=&quot;In het overzicht kunt u het programma-item wijzigen.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/spreker-toevoegen-post1.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;In het overzicht kunt u het programma-item wijzigen.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ga met uw muis over het kopje “Content” en klik op “Program”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kies een menu-item en klik op de bijbehorende “wijzig” knop (zie foto).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/spreker-toevoegen-post2.jpg&quot; caption=&quot;Het 'Speakers' invoerveld.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/spreker-toevoegen-post2.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Het 'Speakers' invoerveld.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Eenmaal in dit menu, zoek het invoerveld “Speakers” op en vul de naam in van de spreker.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Klik op “Add” om de spreker toe te voegen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Klik op “Save Changes” onderaan de pagina om op te slaan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uw spreker is toegevoegd!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Tim de Wilde</name></author><category term="featured" /><summary type="html">Benodigdheden Een spreker toevoegen In dit artikel leert u om een spreker toe te voegen aan een programma item. Uw deelnemers kunnen dan gelijk in het programma zien wie spreekt. Benodigdheden Een user account voor de spreker (zie: Een user toevoegen). Een programma-item om de spreker aan te linken (zie: Een programma item toevoegen). Een spreker toevoegen In het overzicht kunt u het programma-item wijzigen. Ga met uw muis over het kopje “Content” en klik op “Program”. Kies een menu-item en klik op de bijbehorende “wijzig” knop (zie foto). Het 'Speakers' invoerveld. Eenmaal in dit menu, zoek het invoerveld “Speakers” op en vul de naam in van de spreker. Klik op “Add” om de spreker toe te voegen. Klik op “Save Changes” onderaan de pagina om op te slaan. Uw spreker is toegevoegd!</summary></entry><entry><title type="html">Iets aan het menu toevoegen</title><link href="http://localhost:4000/post103/" rel="alternate" type="text/html" title="Iets aan het menu toevoegen" /><published>2018-10-16T00:00:00+02:00</published><updated>2018-10-16T00:00:00+02:00</updated><id>http://localhost:4000/post103</id><content type="html" xml:base="http://localhost:4000/post103/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#overzicht-navigation&quot; id=&quot;markdown-toc-overzicht-navigation&quot;&gt;Overzicht Navigation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-default-menu-item-toevoegen&quot; id=&quot;markdown-toc-een-default-menu-item-toevoegen&quot;&gt;Een default menu-item toevoegen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#zelf-een-menu-item-toevoegen&quot; id=&quot;markdown-toc-zelf-een-menu-item-toevoegen&quot;&gt;Zelf een menu-item toevoegen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In dit artikel leert u om iets toe te voegen (denk aan een programma, chatpagina, etc.) aan uw app-menu.&lt;/p&gt;
+
+&lt;h2 id=&quot;overzicht-navigation&quot;&gt;Overzicht Navigation&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/toevoegen-menu-post1.jpg&quot; caption=&quot;In het Navigation overzicht kunt u menu-items toevoegen.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/toevoegen-menu-post1.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;In het Navigation overzicht kunt u menu-items toevoegen.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Log in het beheerpaneel.&lt;/li&gt;
+  &lt;li&gt;Ga met uw muis over het kopje “App” en klik “Navigation” aan.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;een-default-menu-item-toevoegen&quot;&gt;Een default menu-item toevoegen&lt;/h2&gt;
+
+&lt;p&gt;Om makkelijk iets aan het menu toe te voegen zoals de homepagina of een programma, kunt u op een van de gele blokjes bovenaan klikken. Dit voegt gelijk een pagina toe!&lt;/p&gt;
+
+&lt;h2 id=&quot;zelf-een-menu-item-toevoegen&quot;&gt;Zelf een menu-item toevoegen&lt;/h2&gt;
+
+&lt;p&gt;Kunt u uw gewenste menu-item niet tussen de gele blokjes vinden? Dan kunt u er zelf een aanmaken.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Klik op de knop “Add new item”.&lt;/li&gt;
+  &lt;li&gt;Vul de naam in van het menu-item en kies een icoon.&lt;/li&gt;
+  &lt;li&gt;Nu moet u bepalen wat er weergegeven moet worden als er op dit menu-item wordt geklikt. Kies bij “link” de inhoud die bij de pagina hoort.&lt;/li&gt;
+  &lt;li&gt;Klik op “Add navigation item” om toe te voegen!&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Tim de Wilde</name></author><category term="featured" /><summary type="html">Overzicht Navigation Een default menu-item toevoegen Zelf een menu-item toevoegen In dit artikel leert u om iets toe te voegen (denk aan een programma, chatpagina, etc.) aan uw app-menu. Overzicht Navigation In het Navigation overzicht kunt u menu-items toevoegen. Log in het beheerpaneel. Ga met uw muis over het kopje “App” en klik “Navigation” aan. Een default menu-item toevoegen Om makkelijk iets aan het menu toe te voegen zoals de homepagina of een programma, kunt u op een van de gele blokjes bovenaan klikken. Dit voegt gelijk een pagina toe! Zelf een menu-item toevoegen Kunt u uw gewenste menu-item niet tussen de gele blokjes vinden? Dan kunt u er zelf een aanmaken. Klik op de knop “Add new item”. Vul de naam in van het menu-item en kies een icoon. Nu moet u bepalen wat er weergegeven moet worden als er op dit menu-item wordt geklikt. Kies bij “link” de inhoud die bij de pagina hoort. Klik op “Add navigation item” om toe te voegen!</summary></entry><entry><title type="html">Een user toevoegen</title><link href="http://localhost:4000/post102/" rel="alternate" type="text/html" title="Een user toevoegen" /><published>2018-10-15T00:00:00+02:00</published><updated>2018-10-15T00:00:00+02:00</updated><id>http://localhost:4000/post102</id><content type="html" xml:base="http://localhost:4000/post102/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#overzicht-users&quot; id=&quot;markdown-toc-overzicht-users&quot;&gt;Overzicht users&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-user-toevoegen&quot; id=&quot;markdown-toc-een-user-toevoegen&quot;&gt;Een user toevoegen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In dit artikel leert u een nieuwe user toe te voegen. Hiermee kunt u gewone deelnemers toevoegen, maar ook bijvoorbeeld sprekers van uw event.&lt;/p&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/user-add-post1.jpg&quot; caption=&quot;Ga naar de pagina met het overzicht van de users.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/user-add-post1.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Ga naar de pagina met het overzicht van de users.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;overzicht-users&quot;&gt;Overzicht users&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Log in het beheerpaneel.&lt;/li&gt;
+  &lt;li&gt;Ga met uw muis over het kopje “Participants” en klik “Users” aan.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;een-user-toevoegen&quot;&gt;Een user toevoegen&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/user-add-post2.jpg&quot; caption=&quot;In het overzicht kunt u nieuwe users toevoegen.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/user-add-post2.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;In het overzicht kunt u nieuwe users toevoegen.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Klik op de knop “+ New user item”.&lt;/li&gt;
+  &lt;li&gt;Hier vindt u een scherm met invoervelden. Deze velden zijn niet verplicht in te vullen, dus u heeft de vrijheid om ze zo veel, of zo weinig te gebruiken als u wilt.&lt;/li&gt;
+  &lt;li&gt;Klik op de knop “Save changes” beneden aan de pagina om op te slaan.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Naam invoerveld&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Beschrijving&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Activation code&lt;/td&gt;
+      &lt;td&gt;De activatiecode die ingevuld moet worden bij het inloggen. Dit kunt u over het algemeen leeg laten, omdat deze code automatisch gegenereerd wordt.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Is the code open for registration?&lt;/td&gt;
+      &lt;td&gt;Geeft aan of de code al gebruikt is bij het registreren of niet.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;External Identifier&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Privacy Setting&lt;/td&gt;
+      &lt;td&gt;Instelling voor de weergave van het account voor andere gebruikers. Dit kan compleet afgeschermd zijn (hidden) alleen de naam (name only) compleet zichtbaar (public) of uw eigen instelling (costum).&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Voornaam&lt;/td&gt;
+      &lt;td&gt;De voornaam van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Infix name&lt;/td&gt;
+      &lt;td&gt;Het tussenvoegsel van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Achternaam&lt;/td&gt;
+      &lt;td&gt;De achternaam van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;E-mail&lt;/td&gt;
+      &lt;td&gt;De E-mail van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Type&lt;/td&gt;
+      &lt;td&gt;De machtigingen van de user. Wanneer u een admin- of hosttype aangeeft krijgt deze user meer rechten en toegang tot het beheerpaneel.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Profile Image&lt;/td&gt;
+      &lt;td&gt;Profiel afbeelding van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Birthday&lt;/td&gt;
+      &lt;td&gt;Verjaardag van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Geslacht&lt;/td&gt;
+      &lt;td&gt;Geslacht van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Company name&lt;/td&gt;
+      &lt;td&gt;Het bedrijf waar de gebruiker in functie is.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Company role&lt;/td&gt;
+      &lt;td&gt;De functie binnen het bedrijf van de gebruiker.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Telefoonnummer&lt;/td&gt;
+      &lt;td&gt;Het telefoonnummer van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;Een beschrijving van de user die terug te vinden is op zijn of haar profiel.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Linkedin Profiel&lt;/td&gt;
+      &lt;td&gt;Het Linkedin profiel van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tags&lt;/td&gt;
+      &lt;td&gt;Hier kunt u uw zelfgemaakte tags (via Settings-&amp;gt;App Settings-&amp;gt;Tags) toevoegen aan de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Personal Program&lt;/td&gt;
+      &lt;td&gt;Hier kunt u programma-items toevoegen die in het persoonlijke schema te komen staan van de user.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Companies associated with this user&lt;/td&gt;
+      &lt;td&gt;Hier kunt u bedrijf-items aan de user toevoegen die u heeft gemaakt (via Participants-&amp;gt;Companies).&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Tim de Wilde</name></author><category term="featured" /><summary type="html">Overzicht users Een user toevoegen In dit artikel leert u een nieuwe user toe te voegen. Hiermee kunt u gewone deelnemers toevoegen, maar ook bijvoorbeeld sprekers van uw event. Ga naar de pagina met het overzicht van de users. Overzicht users Log in het beheerpaneel. Ga met uw muis over het kopje “Participants” en klik “Users” aan. Een user toevoegen In het overzicht kunt u nieuwe users toevoegen. Klik op de knop “+ New user item”. Hier vindt u een scherm met invoervelden. Deze velden zijn niet verplicht in te vullen, dus u heeft de vrijheid om ze zo veel, of zo weinig te gebruiken als u wilt. Klik op de knop “Save changes” beneden aan de pagina om op te slaan.     Naam invoerveld Beschrijving Activation code De activatiecode die ingevuld moet worden bij het inloggen. Dit kunt u over het algemeen leeg laten, omdat deze code automatisch gegenereerd wordt. Is the code open for registration? Geeft aan of de code al gebruikt is bij het registreren of niet. External Identifier   Privacy Setting Instelling voor de weergave van het account voor andere gebruikers. Dit kan compleet afgeschermd zijn (hidden) alleen de naam (name only) compleet zichtbaar (public) of uw eigen instelling (costum). Voornaam De voornaam van de user. Infix name Het tussenvoegsel van de user. Achternaam De achternaam van de user. E-mail De E-mail van de user. Type De machtigingen van de user. Wanneer u een admin- of hosttype aangeeft krijgt deze user meer rechten en toegang tot het beheerpaneel. Profile Image Profiel afbeelding van de user. Birthday Verjaardag van de user. Geslacht Geslacht van de user. Company name Het bedrijf waar de gebruiker in functie is. Company role De functie binnen het bedrijf van de gebruiker. Telefoonnummer Het telefoonnummer van de user. Description Een beschrijving van de user die terug te vinden is op zijn of haar profiel. Linkedin Profiel Het Linkedin profiel van de user. Tags Hier kunt u uw zelfgemaakte tags (via Settings-&amp;gt;App Settings-&amp;gt;Tags) toevoegen aan de user. Personal Program Hier kunt u programma-items toevoegen die in het persoonlijke schema te komen staan van de user. Companies associated with this user Hier kunt u bedrijf-items aan de user toevoegen die u heeft gemaakt (via Participants-&amp;gt;Companies).</summary></entry><entry><title type="html">Een programma item toevoegen</title><link href="http://localhost:4000/post101/" rel="alternate" type="text/html" title="Een programma item toevoegen" /><published>2018-10-15T00:00:00+02:00</published><updated>2018-10-15T00:00:00+02:00</updated><id>http://localhost:4000/post101</id><content type="html" xml:base="http://localhost:4000/post101/">&lt;h4 class=&quot;no_toc&quot; id=&quot;inhoud-van-dit-artikel&quot;&gt;Inhoud van dit artikel&lt;/h4&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#overzicht-programma-items&quot; id=&quot;markdown-toc-overzicht-programma-items&quot;&gt;Overzicht programma items&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#een-programma-item-toevoegen&quot; id=&quot;markdown-toc-een-programma-item-toevoegen&quot;&gt;Een programma item toevoegen&lt;/a&gt;&lt;/li&gt;
@@ -103,493 +332,4 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;*) Deze velden zijn optioneel, en worden zichtbaar aan de hand van ingestelde instellingen.&lt;/p&gt;</content><author><name>Bas Krijgsman</name></author><category term="featured" /><summary type="html">Inhoud van dit artikel</summary></entry><entry><title type="html">Een programma item toevoegen</title><link href="http://localhost:4000/post101/" rel="alternate" type="text/html" title="Een programma item toevoegen" /><published>2018-10-15T00:00:00+02:00</published><updated>2018-10-15T00:00:00+02:00</updated><id>http://localhost:4000/post101</id><content type="html" xml:base="http://localhost:4000/post101/">&lt;h4 class=&quot;no_toc&quot; id=&quot;inhoud-van-dit-artikel&quot;&gt;Inhoud van dit artikel&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overzicht-programma-items&quot; id=&quot;markdown-toc-overzicht-programma-items&quot;&gt;Overzicht programma items&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#een-programma-item-toevoegen&quot; id=&quot;markdown-toc-een-programma-item-toevoegen&quot;&gt;Een programma item toevoegen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Leer in dit artikel hoe u het programma eenvoudig kunt importeren en beheren in onze applicatie. Voeg sessies toe, koppel sprekers &amp;amp; stel het persoonlijke programma van uw deelnemers samen.&lt;/p&gt;
-
-&lt;h2 id=&quot;overzicht-programma-items&quot;&gt;Overzicht programma items&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Login in het beheerpaneel&lt;/li&gt;
-  &lt;li&gt;Ga met uw muis over content en klik Programma aan.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts//screenshots/talk1.png&quot; caption=&quot;Ga naar de pagina met alle programma items.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts//screenshots/talk1.png&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Ga naar de pagina met alle programma items.&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Op de volgende pagina ziet u een overzicht van alle programma. Op het moment dat u nog geen programma items heeft toegevoegd zal deze pagina leeg zijn.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;U kunt ook een excel sheet aanleveren met de programma onderdelen om deze in 1 klap snel te importeren. Neem hiervoor contact op met support.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;een-programma-item-toevoegen&quot;&gt;Een programma item toevoegen&lt;/h2&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts//screenshots/talk2.png&quot; caption=&quot;Klik op '+ New session' om een nieuw item toe te voegen.&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts//screenshots/talk2.png&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Klik op '+ New session' om een nieuw item toe te voegen.&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Klik op “+ New session” om een nieuw item toe te voegen&lt;/li&gt;
-  &lt;li&gt;Vul de velden van het programma in. Hieronder staat omschreven wat elk veld betekent.&lt;/li&gt;
-  &lt;li&gt;Druk op save. Het programma item zal zichtbaar zijn in de app!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Naam invoerveld&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Beschrijving&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Name&lt;/td&gt;
-      &lt;td&gt;De titel van het programma onderdeel&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Start time&lt;/td&gt;
-      &lt;td&gt;De start tijd van het programma onderdeel&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;End time&lt;/td&gt;
-      &lt;td&gt;De eind tijd van het programma onderdeel&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Main description&lt;/td&gt;
-      &lt;td&gt;De omschrijving van het programma item&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Image&lt;/td&gt;
-      &lt;td&gt;De foto die bij het programma onderdeel zichtbaar wordt&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Type&lt;/td&gt;
-      &lt;td&gt;Het type onderdeel. Plenaire sessies komen in iedereen’s programma. Workshops zijn op inschrijving.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Categories*&lt;/td&gt;
-      &lt;td&gt;Indien er categorieën zijn ingesteld kan hier de programma categorie zichtbaar worden.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Location&lt;/td&gt;
-      &lt;td&gt;De locatie/zaal van het programma onderdeel.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Maximum amount*&lt;/td&gt;
-      &lt;td&gt;Het maximum aantal deelnemers dat zich voor het programma onderdeel kan inschrijven. (Alleen voor workshops).&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Speakers&lt;/td&gt;
-      &lt;td&gt;De sprekers van het programma onderdeel. Voeg eerst een spreker toe&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Companies&lt;/td&gt;
-      &lt;td&gt;Het bedrijf dat het programma onderdeel geeft.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Participants&lt;/td&gt;
-      &lt;td&gt;De deelnemers waar dit programma onderdeel in het persoonlijk programma zit.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;*) Deze velden zijn optioneel, en worden zichtbaar aan de hand van ingestelde instellingen.&lt;/p&gt;</content><author><name>Bas Krijgsman</name></author><category term="featured" /><summary type="html">Inhoud van dit artikel Overzicht programma items Een programma item toevoegen Leer in dit artikel hoe u het programma eenvoudig kunt importeren en beheren in onze applicatie. Voeg sessies toe, koppel sprekers &amp;amp; stel het persoonlijke programma van uw deelnemers samen. Overzicht programma items Login in het beheerpaneel Ga met uw muis over content en klik Programma aan. Ga naar de pagina met alle programma items. Op de volgende pagina ziet u een overzicht van alle programma. Op het moment dat u nog geen programma items heeft toegevoegd zal deze pagina leeg zijn. U kunt ook een excel sheet aanleveren met de programma onderdelen om deze in 1 klap snel te importeren. Neem hiervoor contact op met support. Een programma item toevoegen Klik op '+ New session' om een nieuw item toe te voegen. Klik op “+ New session” om een nieuw item toe te voegen Vul de velden van het programma in. Hieronder staat omschreven wat elk veld betekent. Druk op save. Het programma item zal zichtbaar zijn in de app! Naam invoerveld Beschrijving Name De titel van het programma onderdeel Start time De start tijd van het programma onderdeel End time De eind tijd van het programma onderdeel Main description De omschrijving van het programma item Image De foto die bij het programma onderdeel zichtbaar wordt Type Het type onderdeel. Plenaire sessies komen in iedereen’s programma. Workshops zijn op inschrijving. Categories* Indien er categorieën zijn ingesteld kan hier de programma categorie zichtbaar worden. Location De locatie/zaal van het programma onderdeel. Maximum amount* Het maximum aantal deelnemers dat zich voor het programma onderdeel kan inschrijven. (Alleen voor workshops). Speakers De sprekers van het programma onderdeel. Voeg eerst een spreker toe Companies Het bedrijf dat het programma onderdeel geeft. Participants De deelnemers waar dit programma onderdeel in het persoonlijk programma zit. *) Deze velden zijn optioneel, en worden zichtbaar aan de hand van ingestelde instellingen.</summary></entry><entry><title type="html">Selecting the right fonts and colors</title><link href="http://localhost:4000/post63/" rel="alternate" type="text/html" title="Selecting the right fonts and colors" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post63</id><content type="html" xml:base="http://localhost:4000/post63/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry><entry><title type="html">Design tips for choosing great images</title><link href="http://localhost:4000/post62/" rel="alternate" type="text/html" title="Design tips for choosing great images" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post62</id><content type="html" xml:base="http://localhost:4000/post62/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry><entry><title type="html">Upgrading to paid service</title><link href="http://localhost:4000/post61/" rel="alternate" type="text/html" title="Upgrading to paid service" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post61</id><content type="html" xml:base="http://localhost:4000/post61/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry><entry><title type="html">Purchasing domain name and DNS setup</title><link href="http://localhost:4000/post60/" rel="alternate" type="text/html" title="Purchasing domain name and DNS setup" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post60</id><content type="html" xml:base="http://localhost:4000/post60/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry><entry><title type="html">Using Private Browsing or Incognito mode</title><link href="http://localhost:4000/post6/" rel="alternate" type="text/html" title="Using Private Browsing or Incognito mode" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post6</id><content type="html" xml:base="http://localhost:4000/post6/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry><entry><title type="html">Accepted currencies for product billing</title><link href="http://localhost:4000/post5/" rel="alternate" type="text/html" title="Accepted currencies for product billing" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post5</id><content type="html" xml:base="http://localhost:4000/post5/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><category term="featured" /><summary type="html">Sections in this article</summary></entry><entry><title type="html">Cancelling a website subscription</title><link href="http://localhost:4000/post4/" rel="alternate" type="text/html" title="Cancelling a website subscription" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post4</id><content type="html" xml:base="http://localhost:4000/post4/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><category term="featured" /><summary type="html">Sections in this article</summary></entry><entry><title type="html">Updating your billing credit card</title><link href="http://localhost:4000/post3/" rel="alternate" type="text/html" title="Updating your billing credit card" /><published>2017-05-25T00:00:00+02:00</published><updated>2017-05-25T00:00:00+02:00</updated><id>http://localhost:4000/post3</id><content type="html" xml:base="http://localhost:4000/post3/">&lt;h4 class=&quot;no_toc&quot; id=&quot;sections-in-this-article&quot;&gt;Sections in this article&lt;/h4&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#image-lightbox-example&quot; id=&quot;markdown-toc-image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#example-of-code-block&quot; id=&quot;markdown-toc-example-of-code-block&quot;&gt;Example Of Code Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#text-and-quote&quot; id=&quot;markdown-toc-text-and-quote&quot;&gt;Text and Quote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.&lt;/p&gt;
-
-&lt;p&gt;Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.&lt;/p&gt;
-
-&lt;h2 id=&quot;image-lightbox-example&quot;&gt;Image Lightbox Example&lt;/h2&gt;
-&lt;p&gt;Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.&lt;/p&gt;
-
-&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
-    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/image1.png&quot; caption=&quot;Image in lightbox&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/posts/image1.png&quot; alt=&quot;Alt for image&quot; /&gt;
-        &lt;div class=&quot;uk-position-center&quot;&gt;
-            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
-        &lt;/div&gt;
-    &lt;/a&gt;
-    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Image in lightbox&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-of-code-block&quot;&gt;Example Of Code Block&lt;/h2&gt;
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;utf-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;http-equiv=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;viewport&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;width=device-width, initial-scale=1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;shortcut icon&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image/png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/favicon.png&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/js/main.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;text-and-quote&quot;&gt;Text and Quote&lt;/h2&gt;
-&lt;p&gt;Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;&lt;/p&gt;
-
-&lt;p&gt;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.&lt;/p&gt;</content><author><name>John Black</name></author><summary type="html">Sections in this article</summary></entry></feed>
+&lt;p&gt;*) Deze velden zijn optioneel, en worden zichtbaar aan de hand van ingestelde instellingen.&lt;/p&gt;</content><author><name>Bas Krijgsman</name></author><category term="featured" /><summary type="html">Inhoud van dit artikel</summary></entry></feed>
