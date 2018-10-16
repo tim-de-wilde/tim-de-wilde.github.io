@@ -1,10 +1,10 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Vragen?
 permalink: /contact/
 formspree:
     email: support@eventinsight.io
     redirect: /thanks/
 ---
 
-Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter.
+Wij beantwoorden al uw vragen graag. Vul het formulier hieronder in en een medewerker van EventInsight neemt zo snel mogelijk contact met u op! 

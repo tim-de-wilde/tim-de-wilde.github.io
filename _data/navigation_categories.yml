@@ -2,14 +2,14 @@
 
 - heading: Bekijk alle artikelen
   categories:
-    - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+    - title: Content
+      desc: Bekijk onze content om verder te helpen met uw app.
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
+    - title: Getting started
+      desc: Nieuw bij EventInsight? Lees hier alle informatie voor starters.
+      icon: check
 
-    - title: Programma
-      desc: Answers to most common configuration issues
+    - title: App settings
+      desc: Hulp bij de settings van uw app.
       icon: cog
