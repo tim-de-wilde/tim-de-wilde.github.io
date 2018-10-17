@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Getting Started",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/getting_started/",
+      "date"     : "2018-10-17 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Een spreker toevoegen",
       "category" : "",
       "tags"     : "featured",
