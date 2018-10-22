@@ -34,43 +34,41 @@ Het kost helaas 1 keer wat tijd om een Apple account aan te maken, maar zodra de
 
 De volgende stappen dienen genomen te worden om een geldige Apple developersaccount te hebben:  
 
-- Maak een Apple ID is aan via: [https://appleid.apple.com/account#!&page=create](https://appleid.apple.com/account#!&page=create.). Het is belangrijk dat twee-staps verificatie aan staat, anders kan je de membership voorwaarden niet accepteren. 
+1. Maak een Apple ID is aan via: [https://appleid.apple.com/account#!&page=create](https://appleid.apple.com/account#!&page=create.). Het is belangrijk dat twee-staps verificatie aan staat, anders kan je de membership voorwaarden niet accepteren. 
 
-> **Geen eigen wachtwoord**
->
-> Wij raden je aan geen eigen of wachtwoorden van de organisatie te gebruiken. Je kan een willekeurig wachtwoord aanmaken via: [http://www.onlinewachtwoordgenerator.nl](http://www.onlinewachtwoordgenerator.nl/)
+   > **Geen eigen wachtwoord**
+   >
+   > Wij raden je aan geen eigen of wachtwoorden van de organisatie te gebruiken. Je kan een willekeurig wachtwoord aanmaken via: [http://www.onlinewachtwoordgenerator.nl](http://www.onlinewachtwoordgenerator.nl/)
 
+   > **Gebruik een apart e-mailadres**
+   >
+   > Maak een apart email adres aan voor dit Apple account, bijvoorbeeld: developers@jouworganisatie.com.
+   >
+   > We raden het af om adressen te gebruiken waar Almanapp of EventInsight in staat, omdat dat conflicten kan opleveren met onze eigen Store accounts. Dit levert mogelijk vertraging op en dat willen we voorkomen. Apple heeft het liefst een domein van je eigen organisatie.
 
+2. Na het aanmaken van het AppleID, dient two-factor authenticatie nog aangezet te worden. Dit kan door middel van een Apple device. Op [deze pagina](https://support.apple.com/nl-nl/HT204915) staat beschreven welke stappen hiervoor genomen moeten worden.
 
-> **Gebruik een apart e-mailadres**
->
-> Maak een apart email adres aan voor dit Apple account, bijvoorbeeld: developers@jouworganisatie.com.
->
-> We raden het af om adressen te gebruiken waar Almanapp of EventInsight in staat, omdat dat conflicten kan opleveren met onze eigen Store accounts. Dit levert mogelijk vertraging op en dat willen we voorkomen. Apple heeft het liefst een domein van je eigen organisatie.
+   > **Geen Apple device?**
+   >
+   > Op het moment dat er geen Apple device beschikbaar is, raden wij aan om iemand te zoeken waarvan deze te lenen is. Mocht dit niet mogelijk is, dient er contact opgenomen te worden met Apple. [Klik hier](http://docs.eventinsight.io/start/#geendevice) voor meer informatie.
 
-- Na het aanmaken van het AppleID, dient two-factor authenticatie nog aangezet te worden. Dit kan door middel van een Apple device. Op [deze pagina](https://support.apple.com/nl-nl/HT204915) staat beschreven welke stappen hiervoor genomen moeten worden.
+3. Vervolgens kan je voor je apple id een apple developers account aanvragen via de volgende link: <https://developer.apple.com/programs/enroll/>. Dit dient gedaan te worden met een het zojuist aangemaakte Apple ID.
 
-> **Geen Apple device?**
->
-> Op het moment dat er geen Apple device beschikbaar is, raden wij aan om iemand te zoeken waarvan deze te lenen is. Mocht dit niet mogelijk is, dient er contact opgenomen te worden met Apple. [Klik hier](http://docs.eventinsight.io/start/#geendevice) voor meer informatie.
+   > D-U-N-S Nummer**
+   >
+   > Mocht je organisatie een rechtsvorm zijn (stichting of b.v/n.v.) dien je de optie organisation te kiezen en heb een D-U-N-S nummer nodig.
+   >
+   > Dit nummer is meegestuurd naar je per e-mail of is op te vragen via: <http://europe.dnb.com/find-my-DUNS/>. Deze site is wat onduidelijk, dus vraag ons gerust om hulp!
 
-- Vervolgens kan je voor je apple id een apple developers account aanvragen via de volgende link: <https://developer.apple.com/programs/enroll/>. Dit dient gedaan te worden met een het zojuist aangemaakte Apple ID.
+4. Na het invullen van de betaalgegevens (creditcard) kom je op een pagina waar iets staat als: 'Your enrolment is being proccessed.'
 
-> **D-U-N-S Nummer**
->
-> Mocht je organisatie een rechtsvorm zijn (stichting of b.v/n.v.) dien je de optie organisation te kiezen en heb een D-U-N-S nummer nodig.
->
-> Dit nummer is meegestuurd naar je per e-mail of is op te vragen via: <http://europe.dnb.com/find-my-DUNS/>. Deze site is wat onduidelijk, dus vraag ons gerust om hulp!
+5. Genereer een app specific password. Dit kan via de volgende link: <https://support.apple.com/nl-nl/HT204397>. Je kan deze later in de vragenlijst invullen!
 
-- Na het invullen van de betaalgegevens (creditcard) kom je op een pagina waar iets staat als: 'Your enrolment is being proccessed.'
+6. Houd het emailadres in de gaten waar het AppleID aan gekoppeld is. Eventuele vragen van de kant van Apple zullen hierop binnenkomen.
 
-- Genereer een app specific password. Dit kan via de volgende link: <https://support.apple.com/nl-nl/HT204397>. Je kan deze later in de vragenlijst invullen!
+7. Zodra de enrollment processed is, krijg je hiervan een bericht. Hierna dien je nog de development voorwaarden op [https://developers.apple.com](https://developers.apple.com/) te accepteren.
 
-- Houd het emailadres in de gaten waar het AppleID aan gekoppeld is. Eventuele vragen van de kant van Apple zullen hierop binnenkomen.
-
-- Zodra de enrollment processed is, krijg je hiervan een bericht. Hierna dien je nog de development voorwaarden op [https://developers.apple.com](https://developers.apple.com/) te accepteren.
-
-- Graag horen wij of de enrollment goed is verlopen, dan kunnen we ermee aan de slag!
+8. Graag horen wij of de enrollment goed is verlopen, dan kunnen we ermee aan de slag!
 
 ### Google
 
