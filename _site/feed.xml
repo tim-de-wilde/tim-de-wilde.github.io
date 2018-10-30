@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-22T11:52:03+02:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Getting Started!</title><link href="http://localhost:4000/gettingstarted/" rel="alternate" type="text/html" title="Getting Started!" /><published>2018-10-17T00:00:00+02:00</published><updated>2018-10-17T00:00:00+02:00</updated><id>http://localhost:4000/gettingstarted</id><content type="html" xml:base="http://localhost:4000/gettingstarted/">&lt;p&gt;Om een mobiele applicatie succesvol en gestroomlijnd op te kunnen zetten, zijn er aantal stappen nodig die op deze pagina zijn vermeld. Het is aan te raden deze stappen aandachtig door te lezen zodat ze in 1 klap succesvol voltooid kunnen worden.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-30T11:12:27+01:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Een foto album maken</title><link href="http://localhost:4000/post105/" rel="alternate" type="text/html" title="Een foto album maken" /><published>2018-10-30T00:00:00+01:00</published><updated>2018-10-30T00:00:00+01:00</updated><id>http://localhost:4000/post105</id><content type="html" xml:base="http://localhost:4000/post105/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-album-maken&quot; id=&quot;markdown-toc-een-album-maken&quot;&gt;Een album maken&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-afbeelding-uploaden&quot; id=&quot;markdown-toc-een-afbeelding-uploaden&quot;&gt;Een afbeelding uploaden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-thumbnail-toevoegen&quot; id=&quot;markdown-toc-een-thumbnail-toevoegen&quot;&gt;Een thumbnail toevoegen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In dit artikel leert u om een foto album te maken en foto’s in het album te zetten.&lt;/p&gt;
+
+&lt;h2 id=&quot;een-album-maken&quot;&gt;Een album maken&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post105-1.jpg&quot; caption=&quot;Upload een bestand.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post105-1.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Upload een bestand.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ga met uw muis over het kopje ‘Content’ en klik op ‘Album’.&lt;/li&gt;
+  &lt;li&gt;Klik op de knop ‘+ New photo item’.&lt;/li&gt;
+  &lt;li&gt;Voer een naam in voor het album.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;een-afbeelding-uploaden&quot;&gt;Een afbeelding uploaden&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post105-2.jpg&quot; caption=&quot;Upload een bestand.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post105-2.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Upload een bestand.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Klik op de knop ‘Upload a file’. U krijgt nu een scherm te zien met uw bestanden.&lt;/li&gt;
+  &lt;li&gt;Navigeer naar de gewenste afbeeldingen.&lt;/li&gt;
+  &lt;li&gt;Selecteer een afbeelding en klik op ‘Openen’.&lt;/li&gt;
+  &lt;li&gt;U hoeft niks op te slaan. Wanneer u klaar bent met uploaden kunt u de pagina verlaten, en het album wordt aangemaakt!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post105-2.jpg&quot; caption=&quot;Upload een bestand.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post105-2.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Upload een bestand.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;een-thumbnail-toevoegen&quot;&gt;Een thumbnail toevoegen&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post105-4.jpg&quot; caption=&quot;Het album aanpassen.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post105-4.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Het album aanpassen.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ga weer met uw muis over het kopje ‘Content’ en klik op ‘Album’.&lt;/li&gt;
+  &lt;li&gt;U ziet nu uw zelfgemaakte album(s). Klik op de ‘upload’ knop (zie foto) om het album aan te passen.&lt;/li&gt;
+  &lt;li&gt;In dit scherm ziet u uw geüploade foto’s. Linksboven bij elke foto staat een sterretje.&lt;/li&gt;
+  &lt;li&gt;Klik op het bijbehorende sterretje van de afbeelding die u als thumbnail wilt.&lt;/li&gt;
+  &lt;li&gt;U hoeft niks op te slaan. Wanneer u klaar bent  kunt u de pagina verlaten en de thumbnail is opgeslagen!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post105-5.jpg&quot; caption=&quot;Klik op het sterretje.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post105-5.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Klik op het sterretje.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Tim de Wilde</name></author><category term="featured" /><summary type="html">Een album maken Een afbeelding uploaden Een thumbnail toevoegen In dit artikel leert u om een foto album te maken en foto’s in het album te zetten. Een album maken Upload een bestand. Ga met uw muis over het kopje ‘Content’ en klik op ‘Album’. Klik op de knop ‘+ New photo item’. Voer een naam in voor het album. Een afbeelding uploaden Upload een bestand. Klik op de knop ‘Upload a file’. U krijgt nu een scherm te zien met uw bestanden. Navigeer naar de gewenste afbeeldingen. Selecteer een afbeelding en klik op ‘Openen’. U hoeft niks op te slaan. Wanneer u klaar bent met uploaden kunt u de pagina verlaten, en het album wordt aangemaakt! Upload een bestand. Een thumbnail toevoegen Het album aanpassen. Ga weer met uw muis over het kopje ‘Content’ en klik op ‘Album’. U ziet nu uw zelfgemaakte album(s). Klik op de ‘upload’ knop (zie foto) om het album aan te passen. In dit scherm ziet u uw geüploade foto’s. Linksboven bij elke foto staat een sterretje. Klik op het bijbehorende sterretje van de afbeelding die u als thumbnail wilt. U hoeft niks op te slaan. Wanneer u klaar bent kunt u de pagina verlaten en de thumbnail is opgeslagen! Klik op het sterretje.</summary></entry><entry><title type="html">Getting Started!</title><link href="http://localhost:4000/gettingstarted/" rel="alternate" type="text/html" title="Getting Started!" /><published>2018-10-17T00:00:00+02:00</published><updated>2018-10-17T00:00:00+02:00</updated><id>http://localhost:4000/gettingstarted</id><content type="html" xml:base="http://localhost:4000/gettingstarted/">&lt;p&gt;Om een mobiele applicatie succesvol en gestroomlijnd op te kunnen zetten, zijn er aantal stappen nodig die op deze pagina zijn vermeld. Het is aan te raden deze stappen aandachtig door te lezen zodat ze in 1 klap succesvol voltooid kunnen worden.&lt;/p&gt;
 
 &lt;h4 class=&quot;no_toc&quot; id=&quot;inhoud-van-dit-artikel&quot;&gt;Inhoud van dit artikel&lt;/h4&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
