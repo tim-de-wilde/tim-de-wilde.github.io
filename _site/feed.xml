@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-30T11:12:27+01:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Een foto album maken</title><link href="http://localhost:4000/post105/" rel="alternate" type="text/html" title="Een foto album maken" /><published>2018-10-30T00:00:00+01:00</published><updated>2018-10-30T00:00:00+01:00</updated><id>http://localhost:4000/post105</id><content type="html" xml:base="http://localhost:4000/post105/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-27T10:54:08+01:00</updated><id>http://localhost:4000/</id><title type="html">Support</title><subtitle>De support pagina van EventInsight.</subtitle><author><name>Tim de Wilde</name><email>tim@eventinsight.io</email></author><entry><title type="html">Een user toevoegen aan een programmasessie</title><link href="http://localhost:4000/post106/" rel="alternate" type="text/html" title="Een user toevoegen aan een programmasessie" /><published>2018-11-27T00:00:00+01:00</published><updated>2018-11-27T00:00:00+01:00</updated><id>http://localhost:4000/post106</id><content type="html" xml:base="http://localhost:4000/post106/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#de-gebruiker-aanpassen&quot; id=&quot;markdown-toc-de-gebruiker-aanpassen&quot;&gt;De gebruiker aanpassen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#een-programma-toevoegen&quot; id=&quot;markdown-toc-een-programma-toevoegen&quot;&gt;Een programma toevoegen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In dit artikel leert u om een gebruiker toe te voegen aan een sessie, zodat deze sessie in hun personal program verschijnt.&lt;/p&gt;
+
+&lt;h2 id=&quot;de-gebruiker-aanpassen&quot;&gt;De gebruiker aanpassen&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post106-1.jpg&quot; caption=&quot;Pas de gebruiker aan.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post106-1.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Pas de gebruiker aan.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In het adminpaneel, navigeer naar ‘Content’ -&amp;gt; ‘Users’&lt;/li&gt;
+  &lt;li&gt;Zoek de persoon op die u wilt aanpassen&lt;/li&gt;
+  &lt;li&gt;Klik op het gele ‘aanpas’ knopje naast de naam van de gewenste gebruiker&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;een-programma-toevoegen&quot;&gt;Een programma toevoegen&lt;/h2&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot;&gt;
+    &lt;a class=&quot;uk-inline&quot; href=&quot;http://localhost:4000/assets/posts/screenshots/post106-2.jpg&quot; caption=&quot;De optie Personal Program.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/posts/screenshots/post106-2.jpg&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;De optie Personal Program.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In het aanpasscherm van de gewenste gebruiker, navigeer naar de optie “Personal Program” of “Persoonlijk Programma”&lt;/li&gt;
+  &lt;li&gt;Zoek naar de sessie die u wilt toevoegen aan de gebruiker.&lt;/li&gt;
+  &lt;li&gt;De naam van de sessie verschijnt nu onder de zoekbalk. Klik op “Add” om deze toe te voegen.&lt;/li&gt;
+  &lt;li&gt;Voeg zo veel sessies toe als u zelf wenst.&lt;/li&gt;
+  &lt;li&gt;Scroll helemaal naar de onderkant van de pagina en klik op “Save Changes” of “Wijzigingen Opslaan”&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Tim de Wilde</name></author><category term="featured" /><summary type="html">De gebruiker aanpassen Een programma toevoegen In dit artikel leert u om een gebruiker toe te voegen aan een sessie, zodat deze sessie in hun personal program verschijnt. De gebruiker aanpassen Pas de gebruiker aan. In het adminpaneel, navigeer naar ‘Content’ -&amp;gt; ‘Users’ Zoek de persoon op die u wilt aanpassen Klik op het gele ‘aanpas’ knopje naast de naam van de gewenste gebruiker Een programma toevoegen De optie Personal Program. In het aanpasscherm van de gewenste gebruiker, navigeer naar de optie “Personal Program” of “Persoonlijk Programma” Zoek naar de sessie die u wilt toevoegen aan de gebruiker. De naam van de sessie verschijnt nu onder de zoekbalk. Klik op “Add” om deze toe te voegen. Voeg zo veel sessies toe als u zelf wenst. Scroll helemaal naar de onderkant van de pagina en klik op “Save Changes” of “Wijzigingen Opslaan”</summary></entry><entry><title type="html">Een foto album maken</title><link href="http://localhost:4000/post105/" rel="alternate" type="text/html" title="Een foto album maken" /><published>2018-10-30T00:00:00+01:00</published><updated>2018-10-30T00:00:00+01:00</updated><id>http://localhost:4000/post105</id><content type="html" xml:base="http://localhost:4000/post105/">&lt;ul class=&quot;no_toc&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#een-album-maken&quot; id=&quot;markdown-toc-een-album-maken&quot;&gt;Een album maken&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#een-afbeelding-uploaden&quot; id=&quot;markdown-toc-een-afbeelding-uploaden&quot;&gt;Een afbeelding uploaden&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#een-thumbnail-toevoegen&quot; id=&quot;markdown-toc-een-thumbnail-toevoegen&quot;&gt;Een thumbnail toevoegen&lt;/a&gt;&lt;/li&gt;
